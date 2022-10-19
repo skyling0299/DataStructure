@@ -19,7 +19,7 @@ void f(struct node *p){
             }
         }
     }
-}
+} //changes
 int main(void){
     printf("here\n");
     struct node * p;
