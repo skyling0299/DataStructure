@@ -11,6 +11,12 @@
         "type_traits": "c",
         "xiosbase": "c",
         "xlocale": "c",
-        "xutility": "c"
+        "xutility": "c",
+        "cmath": "c",
+        "vector": "cpp",
+        "utility": "cpp",
+        "deque": "cpp",
+        "queue": "cpp",
+        "stdlib.h": "c"
     }
 }
